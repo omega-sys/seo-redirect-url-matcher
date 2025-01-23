@@ -75,7 +75,7 @@ semver==2.13.0
 service-identity==21.1.0
 six==1.16.0
 smmap==5.0.0
-streamlit==1.19.0
+streamlit
 threadpoolctl==3.1.0
 tldextract==3.4.0
 toml==0.10.2
